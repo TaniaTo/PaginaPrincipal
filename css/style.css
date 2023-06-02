@@ -36,5 +36,5 @@
     border:2px solid #00a1ff;
 }
 .check:checked:before{
-    background: #00a1ff;
+    background: rgb(176, 190, 255);
 }
