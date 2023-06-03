@@ -1,3 +1,8 @@
+*{
+    background: black;
+}
+
+
 .wrapper{
     width: 100vw;
     height: 100vh;
@@ -14,7 +19,7 @@
     display: inline-block;
     background-color: #1d2774;
     border-radius: 50%;
-    padding: 10px;
+    padding: 7px;
 }
 
 .big-letter {
@@ -30,7 +35,7 @@
     padding: 2em;
     
     
-    background-color: #f2f2f2; /* Agrega el color de fondo */
+    background-color:black; /* Agrega el color de fondo */
 }
 
 
@@ -45,7 +50,7 @@
     
 }
 .menu a {
-    color :rgb(0, 0, 0);
+    color :rgb(241, 240, 240);
     text-decoration: none;
     padding: 10px 20px;
 }
